@@ -14,6 +14,7 @@ notesdir: notes
 github_username:  lawrennd
 
 style: gpss
+theme: minima
 
 comments: false
 
